@@ -242,7 +242,9 @@ Este proyecto me ha permitido trabajar de forma práctica con conceptos clave de
 
 ## 👤 Autor
 
-**Miguel Moretón**
+**Miguel Moretón Martín**
+**Miguel Santos Yanes**
+**Pablo Gutiérrez Palomares**
 
 Trabajo Final de la asignatura **Redes Neuronales**.
 
