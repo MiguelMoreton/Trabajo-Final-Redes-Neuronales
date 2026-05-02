@@ -17,7 +17,9 @@ Este repositorio contiene el desarrollo de mi **Trabajo Final de Redes Neuronale
 
 A lo largo del proyecto se prueban distintas arquitecturas y técnicas de entrenamiento, empezando por redes **Fully Connected** y evolucionando hacia modelos convolucionales tipo **ResNet18**, junto con optimización de hiperparámetros mediante **Optuna**.
 
-El objetivo final es entrenar un modelo capaz de generar predicciones sobre un conjunto de test y guardarlas en formato `.npz`.
+El objetivo final es entrenar un modelo capaz de generar predicciones sobre un conjunto de test y guardarlas en formato `.npz` para que el profesor luego haga una comprobación con las clases reales.
+
+Este nos dio un 10 en la nota final de trabajo que funcionaba a modo de concurso, batiendo asi al resto de la clase.
 
 ---
 
